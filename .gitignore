@@ -1,0 +1,4 @@
+./bin
+
+# TODO: Remove this when we move it to ./bin
+./pdbs
